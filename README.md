@@ -1,9 +1,16 @@
 - 👋 Hi, I’m @happycod3r Paul McCarthy
 - 👀 I’m interested in ...
+
   I love science, math and to code. I love creating in general.
+
 - Languages I know ....
+
   C++, C++/CLR, Python, JavaScript, PHP, Shell (sh, zsh, ps1), HTML, CSS / Less / Sass, XML, JSON, Markdown, Liquid
+
 - 🌱 I’m currently learning ...
+
+  Liquid Template  
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
