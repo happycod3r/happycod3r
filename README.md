@@ -2,18 +2,7 @@
 - 👀 I’m interested in ...
   I love science, math and to code. I love creating in general.
 - Languages I know ....
-  - C++
-  - C++/CLR
-  - Python
-  - JavaScript
-  - PHP
-  - SHell (sh, zsh, ps1)
-  - HTML
-  - CSS / Less / Sass
-  - XML
-  - JSON
-  - Markdown
-  - Liquid
+  C++, C++/CLR, Python, JavaScript, PHP, Shell (sh, zsh, ps1), HTML, CSS / Less / Sass, XML, JSON, Markdown, Liquid
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
