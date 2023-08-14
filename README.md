@@ -14,7 +14,7 @@ to produce Hardstyle/Hard Trance music.
 ✨ The Languages I know are [C++](), [C++/CLR](), [Python](), [JavaScript](), [PHP](), Shell scripting ([Sh](), [Zsh](), [Ps1]()), [HTML](), [CSS](), [Less](), [XML](), [JSON](), [Markdown](), & [Liquid]().
 
 🌱 I’m currently learning [Liquid Template Language](), [advanced Python](), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](),
-and a little about [AI](), [Large Language Models]() and the OpenAI API]().
+and a little about [AI](), [Large Language Models]() and the [OpenAI API]().
 
 💞️ I’m looking to collaborate on anything really. I'm always down for a project! I'm constantly creating and finishing projects,
 so it would be cool to contribute to something I didn't come up with for a change. I could use the professional experience.
