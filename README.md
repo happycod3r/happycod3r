@@ -5,8 +5,8 @@
 😄 Pronouns: he/him
 
 👀 **I'm interested in** [software development](https://en.wikipedia.org/wiki/Software_development), [number theory](https://en.wikipedia.org/wiki/Number_theory), [particle physics](https://en.wikipedia.org/wiki/Particle_physics  ), [Space science](https://en.wikipedia.org/wiki/Outline_of_space_science), [computer science](https://en.wikipedia.org/wiki/Computer_science) and science in general.
-I also love to produce electonic music, but my greatest passion is software development. I am an okay web developer, but
-I am way better at developing desktop stuff and utilities, mostly because I love implementing the logic.
+I also produce electronic music, but my greatest passion is software development. I am an okay web developer, but
+I am way better at developing desktop stuff and utilities.
 
 😍 **What I love** is to come up with new Ideas. I love coding, my dog and cats, summer and I also love
 to produce Hardstyle/Hard Trance music.
