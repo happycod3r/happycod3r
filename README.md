@@ -1,23 +1,23 @@
 👋 Hi, I’m Paul ([@happycod3r](https://www.github.com/happycod3r))
 
-👀 I'm interested in software development, number theory, particle physics, space, computer science and science in general.
+👀 I'm interested in [software development](), [number theory](), [particle physics](), [space](), [computer science]() and science in general.
 I also love to produce electonic music, but my greatest passion is software development. I am an okay web developer, but
 I am way better at developing desktop stuff and utilities, mostly because I love implementing the logic.
 
-😍 What I love is to come up with new Ideas. I simply love to create. Coding is truly the best.
+😍 What I **love** is to come up with new Ideas. I simply love to create in general. Coding is truly the best. I also love
+to produce Hardstyle/Hard Trance music.
 
-😡 What I "hate" is how quick time passes when your having fun, and leaving things unfinished!
+😡 What I **hate** is how quick time passes when your having fun, and leaving things unfinished!
 
 💞️ When I'm writing software, out of all the code that goes into a program my absolute favorite parts to write are the logic
 parts of the code, even more than the design and gui. I love the process of thinking of an idea, figuring out how to implement
 the logic and debugging as I go. It's really satisfying when you run the code and it finally just works or better yet, if
-you get a hole-in-one and it works on the first run.    
+you get a *hole-in-one* and it works on the first run.    
 
-✨ The Languages I know are C++, C++/CLR, Python, JavaScript, PHP, Shell (sh, zsh, ps1), HTML, CSS (Less, Sass), XML, JSON, 
-Markdown, & Liquid.
+✨ The Languages I know are [C++](), [C++/CLR](), [Python](), [JavaScript](), [PHP](), Shell scripting ([Sh](), [Zsh](), [Ps1]()), [HTML](), [CSS](), [Less](), [XML](), [JSON](), [Markdown](), & [Liquid]().
 
-🌱 I’m currently learning Liquid Template Language, more advanced Python, Next.js, the YouTube Data API v3, google cloud development,
-and a little about AI, Language Models and the OpenAI API.
+🌱 I’m currently learning [Liquid Template Language](), [advanced Python](), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](),
+and a little about [AI](), [Large Language Models]() and the [OpenAI API]().
 
 💞️ I’m looking to collaborate on anything really. I'm always down for a project! I'm constantly creating and finishing projects,
 so it would be cool to contribute to something I didn't come up with for a change. I could use the professional experience.
