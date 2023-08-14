@@ -13,7 +13,7 @@ to produce Hardstyle/Hard Trance music.
 
 😡 **What I hate** is how quick time passes when your having fun, and leaving things unfinished!
 
-⚡ **The Languages I know are** `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
+⚡ **The languages I use are** `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
 
 ☕ **I’m currently learning** [Liquid Template Language](https://shopify.github.io/liquid/), [Next.js](https://nextjs.org/), the [YouTube Data API v3](https://developers.google.com/youtube/v3), [Google Cloud Development](https://developers.google.com/youtube/v3), and a little about [AI](https://openai.com/), [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model) and the [OpenAI API](https://openai.com/). I'm also always trying to advance in the languages I know or have used before too.
 
