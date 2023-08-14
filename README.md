@@ -13,17 +13,14 @@ to produce Hardstyle/Hard Trance music.
 
 ✨ The Languages I know are `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
 
-🌱 I’m currently learning [Liquid Template Language](), [advanced Python](), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](),
-and a little about [AI](), [Large Language Models]() and the [OpenAI API]().
+🌱 I’m currently learning [Liquid Template Language](https://shopify.github.io/liquid/), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](), and a little about [AI](), [Large Language Models]() and the [OpenAI API](). I'm also always learning more with the languages I know.
 
 💞️ I’m not particularly looking to collaborate on anything really, but I'm always down for a project! I'm constantly creating and finishing projects,
-so it would be cool to contribute to something I didn't come up with for a change. I could use the professional experience. So feel 
-free to hit me up
+so it would be cool to contribute to something I didn't come up with for a change.
 
 📫 How to reach me is easy. Just use any of my social links anytime and as soon as I get the notification I'll get back to 
 you for sure. 
 - Email: [paulmccarthy676@gmail.com](mailto:paulmccarthy676@gmail.com) | [happy2code0101@gmail.com](happy2code0101@gmail.com)
-- Github: [https://github.com/happycod3r](https://github.com/happycod3r)
 - Linkedin: [https://www.linkedin.com/in/paul-mccarthy-89165a269/](https://www.linkedin.com/in/paul-mccarthy-89165a269/)
 - Facebook: [https://www.facebook.com/paulebeatz](https://www.facebook.com/paulebeatz)
 
