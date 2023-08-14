@@ -17,12 +17,8 @@ to produce Hardstyle/Hard Trance music.
 
 💞️ **I'm looking to collaborate on**  I'm not partial to anything really, but what I would like to collaborate on is something for the desktop. I'm good at implementing logic and GUIs.
 
-📫 **How to reach me** is easy. Just use any of my social links anytime and as soon as I get the notification I'll get back to 
-you for sure. 
-- Email: [paulmccarthy676@gmail.com](mailto:paulmccarthy676@gmail.com) | [happy2code0101@gmail.com](happy2code0101@gmail.com)
-- Linkedin: [https://www.linkedin.com/in/paul-mccarthy-89165a269/](https://www.linkedin.com/in/paul-mccarthy-89165a269/)
-- Facebook: [https://www.facebook.com/paulebeatz](https://www.facebook.com/paulebeatz)
-
+📫 **How to reach me** is easy. Just use any of my social links to the left ⬅ under my profile picture. I'm availabe just reach out!
+ 
 <!---
 happycod3r/happycod3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
