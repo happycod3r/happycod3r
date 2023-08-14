@@ -4,6 +4,10 @@
 I also love to produce electonic music, but my greatest passion is software development. I am an okay web developer, but
 I am way better at developing desktop stuff and utilities, mostly because I love implementing the logic.
 
+😍 What I love is to come up with new Ideas. I simply love to create. Coding is truly the best.
+
+😡 What I "hate" is how quick time passes when your having fun coding ..... and winter!
+
 💞️ When I'm writing software, out of all the code that goes into a program my absolute favorite parts to write are the logic
 parts of the code, even more than the design and gui. I love the process of thinking of an idea, figuring out how to implement
 the logic and debugging as I go. It's really satisfying when you run the code and it finally just works or better yet, if
