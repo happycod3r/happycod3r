@@ -1,3 +1,5 @@
+> ### "*AI is awesome, but we need to give it arms and legs.*"
+
 👋 Hi, I’m Paul ([@happycod3r](https://www.github.com/happycod3r))
 
 👀 I'm interested in [software development](), [number theory](), [particle physics](), [space](), [computer science]() and science in general.
