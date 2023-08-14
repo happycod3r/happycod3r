@@ -13,11 +13,11 @@ to produce Hardstyle/Hard Trance music.
 
 😡 **What I hate** is how quick time passes when your having fun, and leaving things unfinished!
 
-✨ **The Languages I know are** `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
+⚡ **The Languages I know are** `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
 
-🌱 **I’m currently learning** [Liquid Template Language](https://shopify.github.io/liquid/), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](), and a little about [AI](), [Large Language Models]() and the [OpenAI API](). I'm also always trying to advance in the languages I know or have used before too.
+⚡ **I’m currently learning** [Liquid Template Language](https://shopify.github.io/liquid/), [Next.js](), the [YouTube Data API v3](), [Google Cloud Development](), and a little about [AI](), [Large Language Models]() and the [OpenAI API](). I'm also always trying to advance in the languages I know or have used before too.
 
-💞️ **I'm looking to collaborate on**  I'm not partial to anything really, but what I would like to collaborate on is something for the desktop. I'm good at implementing logic and GUIs.
+⚡ **I'm looking to collaborate on**  I'm not partial to anything really, but what I would like to collaborate on is something for the desktop. I'm good at implementing logic and GUIs.
 
 📫 **How to reach me** is easy. Just use any of my social links to the left ⬅ under my profile picture. I'm availabe just reach out!
  
