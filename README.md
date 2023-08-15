@@ -8,8 +8,7 @@
 I also produce electronic music, but my greatest passion is software development. I am an okay web developer, but
 I am way better at developing desktop stuff and utilities.
 
-😍 **What I love** is to come up with new Ideas. I love coding, my dog and cats, summer and I also love
-to produce Hardstyle/Hard Trance music.
+😍 **What I love** is to come up with new ideas and stay up until 4am to implement them with my best friend Coffee and I love learnig because I'm always curious.
 
 😡 **What I hate** is how quick time passes when your having fun, and leaving things unfinished!
 
