@@ -10,7 +10,7 @@ I am way better at developing desktop stuff and utilities.
 
 😍 **What I love** is to come up with new ideas and stay up until 4am to implement them with my best friend Coffee and I love learnig because I'm always curious.
 
-😡 **What I hate** is how quick time passes when your having fun, and leaving things unfinished!
+😡 **What I hate** is how quick time passes when you're having fun, and leaving things unfinished!
 
 ⚡ **The languages I use are** `C++`, `C++/CLR`, `Python`, `JavaScript`, `PHP`, Shell scripting (`Sh`, `Zsh`, `Ps1`), `HTML`, `CSS`, `Less`, `XML`, `JSON`, `Markdown`, & `Liquid`.
 
